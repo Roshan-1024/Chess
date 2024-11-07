@@ -1,0 +1,17 @@
+# Visual Studio files to ignore
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+bin/
+obj/
+*.exe
+*.dll
+*.log
+*.tmp
+*.pdb
+*.o
+*.obj
+Debug/
+Release/
